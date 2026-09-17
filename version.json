@@ -1,0 +1,8 @@
+{
+  "dev_min_version": "1.2.0",
+  "prod_min_version": "2.0.0",
+  "title": "Atualização Necessária",
+  "message": "Uma nova versão do Busca Preço Alagoas está disponível com melhorias importantes. Atualize para continuar.",
+  "android_url": "https://play.google.com/store/apps/details?id=br.gov.al.sefaz.busca_preco_alagoas",
+  "ios_url": "https://apps.apple.com/app/id6741753447"
+}
